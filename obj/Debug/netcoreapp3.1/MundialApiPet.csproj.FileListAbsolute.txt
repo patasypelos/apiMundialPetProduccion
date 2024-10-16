@@ -1,0 +1,357 @@
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\MundialApiPet.exe
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\MundialApiPet.deps.json
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\MundialApiPet.runtimeconfig.json
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\MundialApiPet.runtimeconfig.dev.json
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\MundialApiPet.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\MundialApiPet.pdb
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.AssemblyInfoInputs.cache
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.AssemblyInfo.cs
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.csproj.CoreCompileInputs.cache
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\staticwebassets\MundialApiPet.StaticWebAssets.Manifest.cache
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.RazorTargetAssemblyInfo.cache
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.csproj.CopyComplete
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.pdb
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.genruntimeconfig.cache
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.csproj.AssemblyReference.cache
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\staticwebassets\MundialApiPet.StaticWebAssets.Pack.cache
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.MundialApiPet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.MundialApiPet.props
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.MundialApiPet.props
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.MundialApiPet.props
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jean.guacanemeq\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\MundialApiPet.exe
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\MundialApiPet.deps.json
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\MundialApiPet.runtimeconfig.json
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\MundialApiPet.runtimeconfig.dev.json
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\MundialApiPet.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\MundialApiPet.pdb
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.csproj.AssemblyReference.cache
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.AssemblyInfoInputs.cache
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.AssemblyInfo.cs
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.csproj.CoreCompileInputs.cache
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\staticwebassets\MundialApiPet.StaticWebAssets.Manifest.cache
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.RazorTargetAssemblyInfo.cache
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.dll
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.pdb
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.genruntimeconfig.cache
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\staticwebassets\MundialApiPet.StaticWebAssets.Pack.cache
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.MundialApiPet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.MundialApiPet.props
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.MundialApiPet.props
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.MundialApiPet.props
+C:\Users\jean.guacanemeq\Jean\Proyectos Jean Pierre En Desarrollo\Proyecto .net core\MundialApiPet\obj\Debug\netcoreapp3.1\MundialA.1C91C3FC.Up2Date
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\MundialApiPet.exe
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\MundialApiPet.deps.json
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\MundialApiPet.runtimeconfig.json
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\MundialApiPet.runtimeconfig.dev.json
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\MundialApiPet.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\MundialApiPet.pdb
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.csproj.AssemblyReference.cache
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.AssemblyInfoInputs.cache
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.AssemblyInfo.cs
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.csproj.CoreCompileInputs.cache
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.RazorTargetAssemblyInfo.cache
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\obj\Debug\netcoreapp3.1\staticwebassets\MundialApiPet.StaticWebAssets.Manifest.cache
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\obj\Debug\netcoreapp3.1\MundialA.1C91C3FC.Up2Date
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.dll
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.pdb
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.genruntimeconfig.cache
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\obj\Debug\netcoreapp3.1\MundialApiPet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\obj\Debug\netcoreapp3.1\staticwebassets\MundialApiPet.StaticWebAssets.Pack.cache
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.MundialApiPet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.MundialApiPet.props
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.MundialApiPet.props
+C:\Proyectos Jean\api\MundialApiPet\MundialApiPet\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.MundialApiPet.props
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\MundialApiPet.exe
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\MundialApiPet.deps.json
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\MundialApiPet.runtimeconfig.json
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\MundialApiPet.runtimeconfig.dev.json
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\MundialApiPet.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\MundialApiPet.pdb
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Proyecto github\mundialApi2024\mundialApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyecto github\mundialApi2024\mundialApi\obj\Debug\netcoreapp3.1\MundialApiPet.csproj.AssemblyReference.cache
+C:\Proyecto github\mundialApi2024\mundialApi\obj\Debug\netcoreapp3.1\MundialApiPet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto github\mundialApi2024\mundialApi\obj\Debug\netcoreapp3.1\MundialApiPet.AssemblyInfoInputs.cache
+C:\Proyecto github\mundialApi2024\mundialApi\obj\Debug\netcoreapp3.1\MundialApiPet.AssemblyInfo.cs
+C:\Proyecto github\mundialApi2024\mundialApi\obj\Debug\netcoreapp3.1\MundialApiPet.csproj.CoreCompileInputs.cache
+C:\Proyecto github\mundialApi2024\mundialApi\obj\Debug\netcoreapp3.1\MundialApiPet.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyecto github\mundialApi2024\mundialApi\obj\Debug\netcoreapp3.1\MundialApiPet.sourcelink.json
+C:\Proyecto github\mundialApi2024\mundialApi\obj\Debug\netcoreapp3.1\MundialApiPet.RazorTargetAssemblyInfo.cache
+C:\Proyecto github\mundialApi2024\mundialApi\obj\Debug\netcoreapp3.1\staticwebassets\MundialApiPet.StaticWebAssets.Manifest.cache
+C:\Proyecto github\mundialApi2024\mundialApi\obj\Debug\netcoreapp3.1\staticwebassets\MundialApiPet.StaticWebAssets.Pack.cache
+C:\Proyecto github\mundialApi2024\mundialApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.MundialApiPet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Proyecto github\mundialApi2024\mundialApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.MundialApiPet.props
+C:\Proyecto github\mundialApi2024\mundialApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.MundialApiPet.props
+C:\Proyecto github\mundialApi2024\mundialApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.MundialApiPet.props
+C:\Proyecto github\mundialApi2024\mundialApi\obj\Debug\netcoreapp3.1\MundialA.1C91C3FC.Up2Date
+C:\Proyecto github\mundialApi2024\mundialApi\obj\Debug\netcoreapp3.1\MundialApiPet.dll
+C:\Proyecto github\mundialApi2024\mundialApi\obj\Debug\netcoreapp3.1\MundialApiPet.pdb
+C:\Proyecto github\mundialApi2024\mundialApi\obj\Debug\netcoreapp3.1\MundialApiPet.genruntimeconfig.cache
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\MundialApiPet.exe
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\MundialApiPet.deps.json
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\MundialApiPet.runtimeconfig.json
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\MundialApiPet.runtimeconfig.dev.json
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\MundialApiPet.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\MundialApiPet.pdb
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\obj\Debug\netcoreapp3.1\MundialApiPet.csproj.AssemblyReference.cache
+C:\Proyectos Jean GitHub\Api2024\mundialApi\obj\Debug\netcoreapp3.1\MundialApiPet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos Jean GitHub\Api2024\mundialApi\obj\Debug\netcoreapp3.1\MundialApiPet.AssemblyInfoInputs.cache
+C:\Proyectos Jean GitHub\Api2024\mundialApi\obj\Debug\netcoreapp3.1\MundialApiPet.AssemblyInfo.cs
+C:\Proyectos Jean GitHub\Api2024\mundialApi\obj\Debug\netcoreapp3.1\MundialApiPet.csproj.CoreCompileInputs.cache
+C:\Proyectos Jean GitHub\Api2024\mundialApi\obj\Debug\netcoreapp3.1\MundialApiPet.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyectos Jean GitHub\Api2024\mundialApi\obj\Debug\netcoreapp3.1\MundialApiPet.sourcelink.json
+C:\Proyectos Jean GitHub\Api2024\mundialApi\obj\Debug\netcoreapp3.1\MundialApiPet.RazorTargetAssemblyInfo.cache
+C:\Proyectos Jean GitHub\Api2024\mundialApi\obj\Debug\netcoreapp3.1\staticwebassets\MundialApiPet.StaticWebAssets.Manifest.cache
+C:\Proyectos Jean GitHub\Api2024\mundialApi\obj\Debug\netcoreapp3.1\staticwebassets\MundialApiPet.StaticWebAssets.Pack.cache
+C:\Proyectos Jean GitHub\Api2024\mundialApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.MundialApiPet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Proyectos Jean GitHub\Api2024\mundialApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.MundialApiPet.props
+C:\Proyectos Jean GitHub\Api2024\mundialApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.MundialApiPet.props
+C:\Proyectos Jean GitHub\Api2024\mundialApi\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.MundialApiPet.props
+C:\Proyectos Jean GitHub\Api2024\mundialApi\obj\Debug\netcoreapp3.1\MundialA.1C91C3FC.Up2Date
+C:\Proyectos Jean GitHub\Api2024\mundialApi\obj\Debug\netcoreapp3.1\MundialApiPet.dll
+C:\Proyectos Jean GitHub\Api2024\mundialApi\obj\Debug\netcoreapp3.1\MundialApiPet.pdb
+C:\Proyectos Jean GitHub\Api2024\mundialApi\obj\Debug\netcoreapp3.1\MundialApiPet.genruntimeconfig.cache
