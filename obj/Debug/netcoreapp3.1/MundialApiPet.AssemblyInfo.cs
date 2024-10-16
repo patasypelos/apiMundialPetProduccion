@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MundialApiPet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+446053d6c87a43181a7752f4f270330b1f9ed932")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a06d421ae0b7a3af79db21d70aecbd12e5e4556")]
 [assembly: System.Reflection.AssemblyProductAttribute("MundialApiPet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MundialApiPet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

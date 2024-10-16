@@ -157,6 +157,8 @@ namespace MundialApiPet.Controllers
             {
 
 
+
+
                 List<RReporteIngresaVentaTH> modeloArticulo = new List<RReporteIngresaVentaTH>();
 
                 modeloArticulo = repositorio.ConsultarVentas(fechaInici, fechaFin, idArticulo);

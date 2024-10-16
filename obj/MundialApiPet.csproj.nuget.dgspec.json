@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyectos Jean GitHub\\Api2024\\mundialApi\\MundialApiPet.csproj": {}
+    "C:\\Proyectos Jean GitHub\\Api2024\\mundialApi\\apiMundialPetProduccion\\MundialApiPet.csproj": {}
   },
   "projects": {
-    "C:\\Proyectos Jean GitHub\\Api2024\\mundialApi\\MundialApiPet.csproj": {
+    "C:\\Proyectos Jean GitHub\\Api2024\\mundialApi\\apiMundialPetProduccion\\MundialApiPet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos Jean GitHub\\Api2024\\mundialApi\\MundialApiPet.csproj",
+        "projectUniqueName": "C:\\Proyectos Jean GitHub\\Api2024\\mundialApi\\apiMundialPetProduccion\\MundialApiPet.csproj",
         "projectName": "MundialApiPet",
-        "projectPath": "C:\\Proyectos Jean GitHub\\Api2024\\mundialApi\\MundialApiPet.csproj",
+        "projectPath": "C:\\Proyectos Jean GitHub\\Api2024\\mundialApi\\apiMundialPetProduccion\\MundialApiPet.csproj",
         "packagesPath": "C:\\Users\\zulay\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos Jean GitHub\\Api2024\\mundialApi\\obj\\",
+        "outputPath": "C:\\Proyectos Jean GitHub\\Api2024\\mundialApi\\apiMundialPetProduccion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zulay\\AppData\\Roaming\\NuGet\\NuGet.Config",

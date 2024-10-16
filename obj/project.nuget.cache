@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J/z7xlBRz4w=",
+  "dgSpecHash": "cuKhbFbaQYQ=",
   "success": true,
-  "projectFilePath": "C:\\Proyectos Jean GitHub\\Api2024\\mundialApi\\MundialApiPet.csproj",
+  "projectFilePath": "C:\\Proyectos Jean GitHub\\Api2024\\mundialApi\\apiMundialPetProduccion\\MundialApiPet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zulay\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\zulay\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
