@@ -20,7 +20,7 @@ namespace MundialApiPet.Controllers
     public class Inventario : ControllerBase
     {
         private readonly RepositorioInventario repositorio;
-
+//jean
         public Inventario(RepositorioInventario repositorioConsulta)
         {
             repositorio = repositorioConsulta;
